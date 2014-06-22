@@ -22,7 +22,7 @@ module.exports = function (config) {
         },
         port: 9876, // Note: web server port
         colors: true, // Note: enable / disable colors in the output (reporters and logs)
-        logLevel: config.LOG_INFO,
+        logLevel: config.LOG_INFO,  // LOG_DEBUG for greater detail
         autoWatch: false,
         captureTimeout: 60000, // Note: If browser does not capture in given timeout [ms], kill it
         singleRun: false
