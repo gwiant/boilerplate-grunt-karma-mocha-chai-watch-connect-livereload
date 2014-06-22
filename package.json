@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-grunt-karma-mocha-chai-watch-connect-livereload",
-  "version": "2.0.0",
+  "version": "0.0.0",
   "repository": "https://github.com/gwiant/boilerplate-grunt-karma-mocha-chai-watch-connect-livereload",
   "description": "boilerplate grunt karma mocha chai watch connect livereload",
   "author": "Grant Wiant <gwiant@me.com>",
